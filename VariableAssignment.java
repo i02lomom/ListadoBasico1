@@ -12,13 +12,12 @@ package ListadoBasico1;
 public class VariableAssignment{
 	public static void main(String[]args) { 
 		{
-			int i;	/* The variable has not been initialized.
-					We must give a value to i */
+			int i;	/*The variable has not been initialized.
+				  We must give a value to i*/
 
-			i=18;	/*El valor que debemos darle debe de
-					estar dentro del rango byte ya que hay
-					una conversión a byte
-					*/
+			i=18;	/*The value that we give must be within
+				the range byte because there is a conversion
+				to byte*/
 
 			byte b = (byte) i;
 			System.out.println(i);
