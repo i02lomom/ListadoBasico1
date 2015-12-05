@@ -6,6 +6,7 @@
  * indicando errores y valores de variables
  * 
  * @author Miguel Angel López Moyano
+ * @version 1.0
  */
 public class AsignacionVariables{
 	public static void main(String[]args) { 
